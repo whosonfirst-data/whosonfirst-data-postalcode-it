@@ -1,0 +1,54 @@
+{
+  "id": 504791681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"IT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85685683,
+        102191581,
+        404473033,
+        85633253,
+        404227511,
+        101845753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12846612"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404473033,
+            "locality_id":101845753,
+            "macroregion_id":404227511,
+            "postalcode_id":504791681,
+            "region_id":85685683
+        }
+    ],
+    "wof:id":504791681,
+    "wof:lastmodified":1459992112,
+    "wof:name":"59021",
+    "wof:parent_id":"101845753",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
