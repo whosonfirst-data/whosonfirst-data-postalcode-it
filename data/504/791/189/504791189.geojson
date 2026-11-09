@@ -17,7 +17,7 @@
         404463847,
         85633253,
         404227511,
-        101798643
+        1175612795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -30,7 +30,7 @@
             "continent_id":102191581,
             "country_id":85633253,
             "localadmin_id":404463847,
-            "locality_id":101798643,
+            "locality_id":1175612795,
             "macroregion_id":404227511,
             "postalcode_id":504791189,
             "region_id":85685431
@@ -39,7 +39,7 @@
     "wof:id":504791189,
     "wof:lastmodified":1474577131,
     "wof:name":"53036",
-    "wof:parent_id":101798643,
+    "wof:parent_id":1175612795,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-it",
     "wof:superseded_by":[],
